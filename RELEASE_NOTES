@@ -1,0 +1,10 @@
+#
+# SLAC RELEASE_NOTES
+#
+R0.12.0-0.2.0	2017-03-20 Bruce Hill
+	Bumped to pvAccessCPP/R5.0.0-0.2.0 and pvDataCPP/R6.0.0-0.3.0.
+	Also fixed build for exampleTop and testTop.
+
+R0.12.0-0.1.0	2016-09-01 bhill
+	Added RELEASE.local in example directories
+	Merge branch 'github-master' into pcds-trunk
