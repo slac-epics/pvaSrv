@@ -2,7 +2,7 @@
 # SLAC RELEASE_NOTES
 #
 R0.12.0-0.2.1	2017-04-19 Bruce Hill
-	Updated to pvAccessCPP/R5.0.0-0.2.1 and pvCommonCPP/R4.2.0-0.1.1
+	Updated to pvAccessCPP/R5.0.0-0.2.1 and pvCommonCPP/R4.2.0-0.3.0
 
 R0.12.0-0.2.0	2017-03-20 Bruce Hill
 	Bumped to pvAccessCPP/R5.0.0-0.2.0 and pvDataCPP/R6.0.0-0.3.0.
